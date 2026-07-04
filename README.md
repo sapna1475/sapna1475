@@ -11,8 +11,9 @@
 
 ### 🧭 About Me
 
-I build full-stack applications that solve real problems — not just tutorials — and I'm increasingly focused on making them intelligent. I work across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in LLMs, LangChain, RAG pipelines, and vector embeddings so products don't just respond — they understand context and adapt to the user.
-I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it — the part that actually makes an AI feature production-ready.
+I build full-stack applications that solve real problems . I'm increasingly focused on making them intelligent. I work across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in LLMs, LangChain, RAG pipelines, and vector embeddings so products understand context and adapt to the user.
+
+I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it , the part that actually makes an AI feature production-ready.
 
 ---
 
@@ -66,14 +67,14 @@ A habit-tracking PWA built to solve a real drop-off problem: people abandoning t
 A live, multi-user code editor built to replace the friction of screen-sharing and copy-pasting code.
 - 3-tier role-based access (owner/editor/viewer) with live cursor tracking
 - Secure JWT auth (bcrypt hashing + refresh tokens) for persistent sessions
-- Peer-to-peer video/voice calling via WebRTC — code and talk without switching apps
+- Peer-to-peer video/voice calling via WebRTC 
 - Versioned code history in MongoDB with rollback support
 - Razorpay integration with server-side signature verification for premium features
 
 ### 🏆 Beyond Code
 
 - 🌐 **ICDCC 2024** — Website Development Team Member; built the homepage & speaker section for a conference site that handled 5,000+ visits
-- 🔐 **Cyber Carnival '26 (VIT Bhopal Cyber Security Club)** — Event coordination & outreach for AdVITya'26, drawing 1,000+ student footfall
+- 🔐 **Cyber Carnival '26 (VIT Bhopal Cyber Security Club)**  Event coordination & outreach for AdVITya'26, drawing 1,000+ student footfall
 - 📜 Certifications: Google IT Support · Bits and Bytes of Computer Networking · Deloitte Data Analyst
 
 ---
