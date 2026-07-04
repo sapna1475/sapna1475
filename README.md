@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sapna Tiwari 👋</h1>
+<h1 align="center">Hi, I'm Sapna  👋</h1>
 <h3 align="center">Full-Stack (MERN) Developer | Building Real-Time & AI-Powered Applications</h3>
 
 <p align="center">
@@ -12,8 +12,8 @@
 ### 🧭 About Me
 
 I build full-stack applications that solve real problems — not just tutorials — and I'm increasingly focused on making them intelligent. I work across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in LLMs, LangChain, RAG pipelines, and vector embeddings so products don't just respond — they understand context and adapt to the user.
-
 I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it — the part that actually makes an AI feature production-ready.
+
 ---
 
 ### 🛠️ Tech Stack
