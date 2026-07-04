@@ -11,10 +11,9 @@
 
 ### 🧭 About Me
 
-I'm a B.Tech CSE student at **VIT Bhopal (2023–2027)**, focused on building full-stack applications that solve real problems — not just tutorials. I like working across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in **GenAI (LLMs, LangChain, RAG)** to make products smarter.
+I build full-stack applications that solve real problems — not just tutorials — and I'm increasingly focused on making them intelligent. I work across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in LLMs, LangChain, RAG pipelines, and vector embeddings so products don't just respond — they understand context and adapt to the user.
 
-I care about **shipping things that work under real conditions** — role-based access, secure auth, idempotent background jobs, sub-2-second AI responses — not just demos that work once.
-
+I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it — the part that actually makes an AI feature production-ready.
 ---
 
 ### 🛠️ Tech Stack
@@ -51,15 +50,6 @@ I care about **shipping things that work under real conditions** — role-based 
 
 ### 🚀 Featured Projects
 
-#### 🔗 [DevCollab — Real-Time Collaborative Code Editor](https://github.com/sapna1475/DEVCOLLAB)
-`MERN` `Socket.io` `WebRTC` `Monaco Editor` `JWT` `Razorpay`
-
-A live, multi-user code editor built to replace the friction of screen-sharing and copy-pasting code.
-- 3-tier role-based access (owner/editor/viewer) with live cursor tracking
-- Secure JWT auth (bcrypt hashing + refresh tokens) for persistent sessions
-- Peer-to-peer video/voice calling via WebRTC — code and talk without switching apps
-- Versioned code history in MongoDB with rollback support
-- Razorpay integration with server-side signature verification for premium features
 
 #### 🔗 [AI Habit Tracker](https://github.com/sapna1475/AI-HabitTracker)
 `MERN` `Google Gemini 2.5 Flash` `PWA` `VAPID` `JWT`
@@ -70,6 +60,15 @@ A habit-tracking PWA built to solve a real drop-off problem: people abandoning t
 - MongoDB Atlas persistence with date-fns-driven streak calculation logic
 
 ---
+#### 🔗 [DevCollab — Real-Time Collaborative Code Editor](https://github.com/sapna1475/DEVCOLLAB)
+`MERN` `Socket.io` `WebRTC` `Monaco Editor` `JWT` `Razorpay`
+
+A live, multi-user code editor built to replace the friction of screen-sharing and copy-pasting code.
+- 3-tier role-based access (owner/editor/viewer) with live cursor tracking
+- Secure JWT auth (bcrypt hashing + refresh tokens) for persistent sessions
+- Peer-to-peer video/voice calling via WebRTC — code and talk without switching apps
+- Versioned code history in MongoDB with rollback support
+- Razorpay integration with server-side signature verification for premium features
 
 ### 🏆 Beyond Code
 
