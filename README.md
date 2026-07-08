@@ -8,6 +8,8 @@
 </p>
 
 ---
+### Resume
+[view my resume](./Sapna_AI_resume.pdf)
 
 ### 🧭 About Me
 
@@ -16,8 +18,7 @@ I build full-stack applications that solve real problems . I'm increasingly focu
 I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it , the part that actually makes an AI feature production-ready.
 
 ---
-### Resume
-[view my resume](./Sapna_AI_resume.pdf)
+
 
 
 ### 🛠️ Tech Stack
