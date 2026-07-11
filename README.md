@@ -13,9 +13,7 @@
 
 ### 🧭 About Me
 
-I build full-stack applications that solve real problems . I'm increasingly focused on making them intelligent. I work across the stack: designing schemas, wiring up real-time systems with Socket.io/WebRTC, and now layering in LLMs, LangChain, RAG pipelines, and vector embeddings so products understand context and adapt to the user.
-
-I care about shipping AI features that work under real conditions, not demos that only work once: sub-2-second response times, prompts grounded in real user data instead of generic output, and background jobs that stay reliable at scale. My goal is to keep moving from "using an LLM API" toward building the retrieval, memory, and reasoning layers around it , the part that actually makes an AI feature production-ready.
+I'm Sapna Tiwari, interested in Generative AI, Retrieval-Augmented Generation (RAG), and full-stack development. I build scalable applications using the MERN stack, FastAPI, LangChain, FAISS, Hugging Face, and open-source LLMs, focusing on intelligent search, AI assistants, and seamless user experiences.
 
 ---
 
