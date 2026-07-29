@@ -9,7 +9,7 @@
 
 ---
 ### Resume
-[view my resume](./Sapna_AI_resume.pdf)
+[view my resume](./Resume (2).pdf)
 
 ### 🧭 About Me
 
