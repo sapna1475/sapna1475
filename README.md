@@ -10,7 +10,7 @@
 ---
 ### Resume
 [view my resume](./Resume (2).pdf)
-
+ 
 ### 🧭 About Me
 
 I'm Sapna Tiwari, interested in Generative AI, Retrieval-Augmented Generation (RAG), and full-stack development. I build scalable applications using the MERN stack, FastAPI, LangChain, FAISS, Hugging Face, and open-source LLMs, focusing on intelligent search, AI assistants, and seamless user experiences.
