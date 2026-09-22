@@ -35,7 +35,7 @@ I'm Sapna Tiwari, interested in Generative AI, Retrieval-Augmented Generation (R
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud & DevOps**           
 ![AWS](https://img.shields.io/badge/-AWS%20(EC2%2C%20S3)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
