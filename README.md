@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sapna1475tiwari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/CGPA-8.98-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/CGPA-8.98-brightgreen?style=flat" />   
 </p>
 
 ---
