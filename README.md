@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sapna  👋</h1>
-<h3 align="center">AI/LLM Engineer & Full-Stack Developer | Building Agentic AI, RAG & Real-Time Applications</h3>
+<h3 align="center">AI/LLM Engineer & Backend Developer | Building Agentic AI, RAG & Real-Time Applications</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sapna-tiwari"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 ---
 ### Resume
-[View my resume](./Resume.pdf)
+[View my resume](./Sapna_Resume_ASE.pdf)
 
 ### 🧭 About Me
 
